@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"Joge12/numbers"
 	"sync"
 )
 
